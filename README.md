@@ -1,1 +1,2 @@
 # linuxstudy
+first mofify readme
